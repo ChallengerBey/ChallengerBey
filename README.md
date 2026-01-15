@@ -16,7 +16,7 @@
 - 🖥️ **OS:** Linux Enthusiast 🐧
 - ⚙️ **Main Techs:** ASP.NET, C#, Python, SQL
 - 🔐 **Fokus:** Web Security, OSINT, Backend Defense
-- 🚩 **Hedef:** "Açıkları kapatıyoruz, siberciyiz işte."
+- 🚩 **Goal:** "Proactively identifying and mitigating security vulnerabilities."
 
 ---
 
