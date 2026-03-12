@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">⚔️ Semih Ergili ⚔️</h1>
   <p align="center">
-    <strong>Junior Security Researcher | Software Developer | OPSEC Learner</strong>
+    <strong>Founder & Technical Lead| Software Developer | OPSEC Learner</strong>
   </p>
 </div>
 
