@@ -32,9 +32,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=AUT+VINCERE;AUT+MORI;VICTORY+OR+DEATH" alt="Typing SVG" />
-</p>
-
+<div align="center">
+  <samp>
+    <h1> ⚔️ 𝖋𝖚𝖙 𝖁𝖎𝖓𝖈𝖊𝖗𝖊, 𝕬𝖚𝖙 𝕸𝖔𝖗𝖎 ⚔️ </h1>
+    <p><i>"The path of the warrior is the resolute acceptance of death."</i></p>
+  </samp>
+</div>
 
 
