@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">⚔️ Semih Ergili ⚔️</h1>
+  <h1 align="center">⚔️ Challenger ⚔️</h1>
   <p align="center">
     <strong>Founder & Technical Lead | Software Developer | OPSEC Learner</strong>
   </p>
