@@ -36,7 +36,12 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChallengerBey&show_icons=true&theme=radical&hide_border=true" alt="ChallengerBey Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChallengerBey&layout=compact&theme=radical&hide_border=true" alt="ChallengerBey Languages" />
+</p>
 
+---
 <div align="center">
   <samp>
     <h1> ⚔️ 𝖋𝖚𝖙 𝖁𝖎𝖓𝖈𝖊𝖗𝖊, 𝕬𝖚𝖙 𝕸𝖔𝖗𝖎 ⚔️ </h1>
