@@ -5,26 +5,27 @@
 <div align="center">
   <a href="https://github.com/semihergili">profile views <img src="https://komarev.com/ghpvc/?username=semihergili&style=flat-square&color=38b859" alt="views" /></a> • 
   <a href="https://linkedin.com/in/semihergili"><b>LinkedIn</b></a> • 
-  <a href="https://github.com/semihergili"><b>Projects</b></a>
+  <a href="https://github.com/semihergili"><b>Projects</b></a> • 
+  <a href="https://github.com/semihergili"><b>Contact</b></a>
 </div>
 
+<br>
+
+I'm currently a **Data Analyst & Full-Stack Developer** focused on **Big Data Analytics**, **LLM applications**, and building scalable software architectures. I design systems that scale, data pipelines that survive, and AI agents that actually execute tasks.
+
+I spend most of my time engineering end-to-end applications with **Python, SQL, .NET 8, and React**, developing custom agent workflows, and exploring distributed system patterns natively on **Arch Linux**.
+
 ---
 
-I'm currently a **Data Analyst & Full-Stack Developer** focused on **Big Data Analytics**, **LLM applications**, and building resilient software architectures. I design systems that scale, data pipelines that survive, and AI agents that execute tasks.
-
-I spend my time engineering end-to-end applications with **Python, SQL, .NET 8, and React**, developing custom agent workflows, and exploring distributed system patterns natively on **Arch Linux**.
-
----
-
-<table>
+<table border="0">
   <tr>
-    <!-- Sol Taraf: Swyx'in kullandığı tek parça tam metrik paneli -->
-    <td width="65%" valign="top">
-      <img src="https://metrics.lecoq.io/semihergili?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&languages=1&languages.details=bytes-size%2Cpercentage&languages.colors=github&lines=1&config.timezone=Europe%2FIstanbul" width="100%" alt="GitHub Metrics" />
+    <td width="60%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=semihergili&show_icons=true&theme=default&hide_border=false" width="100%" alt="Semih's GitHub Statistics" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semihergili&layout=compact&theme=default&hide_border=false" width="100%" alt="Languages Used" />
     </td>
-    <!-- Sağ Taraf: Karakter / Jet Görseli -->
-    <td width="35%" valign="middle" align="center">
-      <img src="./f15.jpg" width="100%" alt="Avatar" />
+    <td width="40%" valign="middle" align="center">
+      <img src="./f15.jpg" width="95%" style="border-radius: 12px; display: block;" alt="F-15 Profile" />
     </td>
   </tr>
 </table>
@@ -35,7 +36,16 @@ I spend my time engineering end-to-end applications with **Python, SQL, .NET 8, 
 
 I would like to add you to my professional network on GitHub:
 
-* **Big Data Analytics:** `Python` `SQL` `Pandas` `Power BI`
+* **Big Data & Analytics:** `Python` `SQL` `Pandas` `NumPy` `Power BI`
 * **Full-Stack Engineering:** `.NET 8` `C#` `React` `TypeScript`
-* **AI & Agent Systems:** `LLM Workflows` `MCP Servers` `Local Inference`
-* **Systems & Tools:** `Arch Linux` `Git` `Docker` `REST APIs`
+* **AI & Agent Systems:** `LLMs` `Hugging Face` `Model Context Protocol`
+* **Operating Systems & Tools:** `Arch Linux` `Git` `REST APIs`
+
+---
+
+<div align="center">
+  <samp>
+    <b>⚔️ FORTIS FORTUNA ADIUVAT ⚔️</b><br>
+    <i>"The path of the warrior is the resolute acceptance of death."</i>
+  </samp>
+</div>
